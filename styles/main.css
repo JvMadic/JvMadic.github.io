@@ -1,23 +1,29 @@
+/* New font for main title */
+@font-face{
+    font-family: 'Jomhuria', cursive;
+}
+
+
 .title-box{
-    position:relative;
+    position:absolute;
 }
 
 
 .main-title{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    background-color:lightsteelblue;
+    font-family:Jomhuria;
+    font-size: 70px;
     display: inline-block;
-    height: 45px;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
+    float: left;
+    margin-top: 5px;
+    
 }
 
+
+
+
 .welcome-title{
-    padding-top: 100px;
+    padding-top: 180px;
+    margin-left: 12px;
 }
 
 /* Nav bar styling*/
@@ -25,8 +31,11 @@
 .top-nav{
     background-color:lightsteelblue;
     overflow: hidden;
+    margin-top: 85px;
+    position: relative;
+    float:left;
+    width: 100%;
    
-    
 }
 
 .top-nav a {
@@ -66,7 +75,7 @@
 
   .jv-pic{
     height: auto;
-    width: 120px; 
+    width: 130px; 
     border-radius: 50%;
     float: left;
     

@@ -1,0 +1,52 @@
+/* Research Topic */
+.research-container{
+
+    
+}
+
+.research-title{
+    padding-top: 210px;
+    
+}
+
+
+
+.margin-border-padding{
+    margin-top: 30px;
+
+}
+
+.padding{
+    padding-top: 40px;
+
+}
+
+.padding-image{
+    height: auto;
+    width: 300px;
+
+}
+
+.margin{
+    padding-top: 40px;
+}
+
+.margin-image{
+    height: auto;
+    width: 350px;
+
+}
+
+.border{
+    padding-top: 40px;
+}
+
+.border-image{
+    height: auto;
+    width: 400px;
+}
+
+.padding-margin-summary{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

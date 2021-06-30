@@ -87,7 +87,7 @@
 
 body{
     background: rgb(2,0,36);
-    background: linear-gradient(336deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.48859666149068326) 34%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(320deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.48859666149068326) 34%, rgba(0,212,255,1) 100%);
     background-repeat: space;
     min-height: 100vh;
 }

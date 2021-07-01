@@ -1,0 +1,26 @@
+/*Learning plan stylesheet */
+
+.learning-container{
+    padding-top: 120px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.learning-title{
+    padding-top: 80px;
+    text-align: left;
+}
+
+.learning-content-container{
+    text-align: left;
+    font-size: 17px;
+}
+
+.learning-content{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding-right: 30px;
+    max-width: 80%;
+    
+}

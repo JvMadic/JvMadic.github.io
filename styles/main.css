@@ -92,3 +92,42 @@ body{
     min-height: 100vh;
 }
 
+
+/* Blog page */
+
+.blog-container{
+    padding-top: 200px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 80px;
+}
+
+.research-post{
+    font-size: 40px;
+    font-family:'Jomhuria', cursive;;
+   
+    
+}
+.identity-post{
+    font-size: 40px;
+    font-family:'Jomhuria', cursive;;
+    margin-top: 80px;
+}
+
+.learning-post{
+    font-size: 40px;
+    font-family:'Jomhuria', cursive;;
+    margin-top: 80px;
+}
+
+.eq-post{
+    font-size: 40px;
+    font-family:'Jomhuria', cursive;;
+    margin-top: 80px;
+}
+
+.java-post{
+    font-size: 40px;
+    font-family:'Jomhuria', cursive;;
+    margin-top: 80px;
+}

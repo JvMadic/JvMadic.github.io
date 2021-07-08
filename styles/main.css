@@ -111,23 +111,29 @@ body{
 .identity-post{
     font-size: 40px;
     font-family:'Jomhuria', cursive;;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .learning-post{
     font-size: 40px;
     font-family:'Jomhuria', cursive;;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .eq-post{
     font-size: 40px;
     font-family:'Jomhuria', cursive;;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .java-post{
     font-size: 40px;
     font-family:'Jomhuria', cursive;;
-    margin-top: 80px;
+    margin-top: 60px;
+}
+
+.neuro-post{
+    font-size: 40px;
+    font-family:'Jomhuria', cursive;;
+    margin-top: 60px;
 }

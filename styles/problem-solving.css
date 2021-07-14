@@ -1,0 +1,49 @@
+.problem-solving-container{
+    padding-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 80px;
+}
+
+.problem-solving-title{
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Jomhuria', cursive;;
+    font-size: 50px;
+}
+
+
+.problem-content-container{
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 80px;
+}
+
+.problem-content{
+  text-align: left;
+  padding-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.problem-content2{
+    text-align: left;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.hugo-pic{
+    height: auto;
+    width: 370px; 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.hugo-caption{
+    padding-top: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

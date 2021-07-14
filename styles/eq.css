@@ -5,26 +5,31 @@
     padding-top: 120px;
     margin-left: 15px;
     margin-right: 15px;
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .eq-title{
-    padding-top: 50px;
+    padding-top: 30px;
+    font-family: 'Jomhuria', cursive;
+    font-size: 50px;
+
 }
 
 
 .iq-vs-eq-title{
     padding-top: 50px;
-
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 35px;
 }
 
 
 .eq-content{
     margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .eq-summary{
     margin-top: 40px;
     margin-bottom: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

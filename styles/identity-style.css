@@ -3,29 +3,31 @@
 .identity-container{
     padding-top: 200px;
     max-width: 80%;
-    margin-left: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
 .identity-title{
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     margin-left: 10px;
-
+    font-family: 'Jomhuria', cursive;
+    font-size: 50px;
 }
 
 .identity-content{
     max-width: 76%;
     margin-left: 10px;
     font-size: 17px;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
 
 /* Strengths and weaknesses section */
 .str-wkn-container{
-margin-top: 120px;
-
+    margin-top: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .str-title{
@@ -50,8 +52,8 @@ margin-top: 120px;
 
 .statements-container{
     margin-top: 120px;
-    
     margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .statements-title{
@@ -69,7 +71,7 @@ margin-top: 120px;
 .identity-questions{
     max-width: 76%;
     margin-left: 10px;
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .questions-title{

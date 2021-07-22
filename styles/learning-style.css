@@ -11,14 +11,24 @@
 
 .learning-title{
     padding-top: 50px;
+    padding-left: 20px;
     text-align: left;
     font-family: 'Jomhuria', cursive;
     font-size: 50px;
 }
 
+.learning-subheading{
+    text-align: left;
+    font-family: 'Jomhuria', cursive;
+    font-size: 45px;
+    margin-top: 70px;
+}
+
 .learning-content-container{
     text-align: left;
     font-size: 17px;
+    max-width: 75%;
+    padding-left: 20px;
 }
 
 .learning-content{
@@ -27,4 +37,20 @@
     padding-right: 30px;
     max-width: 80%;
     
+}
+
+.update-section{
+    list-style-type: none;
+}
+
+.update-questions{
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.update-answers{
+    text-align: left;
+    padding-bottom: 20px;
+    max-width: 80%;
 }

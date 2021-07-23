@@ -33,17 +33,3 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
-.hugo-pic{
-    height: auto;
-    width: 370px; 
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
-}
-
-.hugo-caption{
-    padding-top: 10px;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}

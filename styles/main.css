@@ -15,6 +15,7 @@
     display: inline-block;
     float: left;
     margin-top: 5px;
+    padding-left: 20px;
     
 }
 
@@ -23,7 +24,7 @@
 
 .welcome-title{
     padding-top: 180px;
-    margin-left: 12px;
+    margin-left: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
 }
 
@@ -50,7 +51,7 @@
 }
 
 .top-nav a:hover{
-    background-color:rgb(86, 233, 160);
+    background-color:rgb(214, 128, 15);
     color:darkred;
 }
 
@@ -68,18 +69,20 @@
 
   .about-me-image{
       flex-basis: 10%;
+      margin-left: 20px;
   }
 
   .about-me-text{
       padding-left: 15px;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
+      max-width: 70%;
     
     
   }
 
   .jv-pic{
     height: auto;
-    width: 130px; 
+    width: 150px; 
     border-radius: 50%;
     float: left;
     
@@ -88,12 +91,16 @@
 /* Background */
 
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(320deg, rgb(18, 16, 61) 0%, rgba(9,9,121,0.48859666149068326) 34%, rgba(0,212,255,1) 100%);
+    background: rgb(20, 163, 230);
     background-repeat: space;
     min-height: 100vh;
+    
 }
 
+p,li{
+    word-spacing: 5px;
+    line-height: 2;
+}
 
 /* Blog page */
 
@@ -104,50 +111,13 @@ body{
     padding-bottom: 80px;
 }
 
-.research-post{
+.blog-post{
     font-size: 40px;
     font-family:'Jomhuria', cursive;;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: black;
    
     
-}
-.identity-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
 
-.learning-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
 
-.eq-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
-
-.java-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
-
-.neuro-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
-
-.problem-solving-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
-
-.reflections-post{
-    font-size: 40px;
-    font-family:'Jomhuria', cursive;;
-    margin-top: 60px;
-}
